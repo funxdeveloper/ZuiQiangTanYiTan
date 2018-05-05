@@ -1,4 +1,5 @@
 # ZuiQiangTanYiTan
+#暂时不能使用！等待优化算法
 最强弹一弹，微信小游戏，微信弹一弹
 
 ![Image text](https://github.com/Haskely/ZuiQiangTanYiTan/raw/master/readme_pic/screenshot.png)
